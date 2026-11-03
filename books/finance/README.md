@@ -8,14 +8,16 @@
 
 ## 外部书单和资料
 
-- [Quant-Resources](https://github.com/Quant-Enthusiasts/Quant-Resources)
-  - 概率统计、金融数学、风险管理、算法交易和数据分析。
-- [Awesome Finance](https://github.com/brandonhimpfen/awesome-finance)
-  - 金融市场、个人理财、公司金融、量化金融和金融科技。
-- [Awesome Math & Trading](https://github.com/staskh/awesome-math-and-trading)
-  - 数学、概率、机器学习和算法交易的学习路线。
-- [Knowledgebase](https://github.com/MarkBrezina/Knowledgebase)
-  - 量化金融、保险、AI、编程、数学和统计学综合知识库。
+- [股票投资学习笔记](https://github.com/gotonote/Stock-Notes)
+  - 从股票基础、财报分析、交易策略到风险管理的中文学习笔记。
+- [股票相关书籍推荐](https://github.com/DuskDrum/stockBooks)
+  - 金融基础、理财、基本面分析、财报和量化交易中文书单索引。
+- [量化金融八股文](https://github.com/SoYuCry/awesome-quant-interview)
+  - 数学统计、因子投资、Alpha、量化交易和机器学习中文学习资料。
+- [A 股研究与实战](https://github.com/A-shares/A-shares)
+  - A 股基础知识、书籍资料和研究工具整理。
+- [量化投资教程](https://github.com/zhangchuheng123/iQuant)
+  - 投资、股票交易规则和量化投资方法的中文教程。
 
 建议按照主题继续拆分：
 

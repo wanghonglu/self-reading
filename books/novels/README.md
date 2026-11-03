@@ -8,8 +8,6 @@
 
 ## 外部书单和资料
 
-- [Free Ebooks](https://github.com/getbookshelves/free-ebooks)
-  - 公共领域、开放获取和无 DRM 电子书来源。
 - [GitHub Chinese Novels 主题](https://github.com/topics/chinese-novels)
   - 用于发现中文小说相关仓库，具体作品需要单独确认版权状态。
 
